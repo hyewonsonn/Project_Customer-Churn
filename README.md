@@ -1,4 +1,6 @@
 # 🛒 Customer Churn Analysis and Prediction
+![IMG_1A455335EB1B-1](https://user-images.githubusercontent.com/75603262/129148439-3aeb4696-9889-40de-b776-6dcfef3d3c2b.jpeg)
+
 통신 서비스에 있어서 고객이 이탈하는 요인을 분석하고, 고객의 이탈 가능성을 예측하는 모델을 제작하고자 한다.  
 더 나아가 향후 고객 이탈을 방지하기 위한 서비스 기획 방향 역시 제안하고자 한다.
 
