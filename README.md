@@ -26,7 +26,10 @@
 - 고객 이탈에 많은 영향을 미치는 요인은 무엇인가?
 - 고객 이탈을 막기 위해서는 향후 어떠한 서비스를 제공해야 하는가?
 
-## 4. Reference
+## 4. 프로젝트 정리
+- [프로젝트 발표 자료 링크](https://github.com/hyewonsonn/Project_Customer-Churn/blob/main/AI_02_%E1%84%89%E1%85%A9%E1%86%AB%E1%84%92%E1%85%A8%E1%84%8B%E1%85%AF%E1%86%AB_CS1.pdf)
+
+## 5. Reference
 * https://statkclee.github.io/ml/ml-churn.html
 * https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=bestinall&logNo=221748302953
 * https://hwi-doc.tistory.com/entry/Kaggle-Telecom-Customer-Churn-Prediction-Part-2
