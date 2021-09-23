@@ -28,6 +28,7 @@
 
 ## 4. 프로젝트 정리
 - [프로젝트 발표 자료 링크](https://github.com/hyewonsonn/Project_Customer-Churn/blob/main/AI_02_%E1%84%89%E1%85%A9%E1%86%AB%E1%84%92%E1%85%A8%E1%84%8B%E1%85%AF%E1%86%AB_CS1.pdf)
+- [프로젝트 발표 영상 링크](https://www.youtube.com/watch?v=lz15ZSihv-4)
 
 ## 5. Reference
 * https://statkclee.github.io/ml/ml-churn.html
